@@ -46,7 +46,7 @@ h1, h2 {
     margin-right: 60px;
 }
 
-#menu a {
+ a {
     text-decoration: none;
     color: inherit;
 }
@@ -57,7 +57,7 @@ h1, h2 {
 
 .active {
     background-color: #FF5733;
-    color: #fff;
+    color: #fafafa;
     padding: 10px 25px 10px 25px;
     border-radius: 25px;
 
