@@ -46,7 +46,7 @@ h1, h2 {
     margin-right: 60px;
 }
 
- a {
+a {
     text-decoration: none;
     color: inherit;
 }
@@ -61,4 +61,43 @@ h1, h2 {
     padding: 10px 25px 10px 25px;
     border-radius: 25px;
 
+}
+
+/* main image */
+
+#main-image-outer {
+    height: 720px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#cover-text, #cover-text h2 {
+    color: #fff;       
+}
+
+#main-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/dog-group.jpg') no-repeat center center;
+    background-size: cover;
+
+    /* Animates zoom effect on loading page */
+
+    animation-name: image-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+
+}
+
+/* Creates the leve of zoom for hero image */
+
+@keyframes image-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.05);
+    }
 }
