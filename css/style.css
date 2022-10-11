@@ -125,3 +125,17 @@ a {
 section > div > i {
     font-size: 250%;
 }
+
+/* about us section */
+
+#about-us > h2 {
+    text-align: center;
+    font-size: 250%;
+}
+
+#about-us > div {
+    margin-top: 50px;
+    margin-left: 40px;
+    width: 33%;
+}
+
