@@ -137,5 +137,8 @@ section > div > i {
     margin-top: 50px;
     margin-left: 40px;
     width: 33%;
+    text-align: center;
+    
+    margin-inline: auto;
 }
 
