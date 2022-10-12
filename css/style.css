@@ -135,11 +135,18 @@ section > div > i {
 }
 
 #about-us > div {
-    margin-top: 50px;
-    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     width: 33%;
     text-align: center;
     
     margin-inline: auto;
 }
 
+div > h2 {
+    border-bottom: #FF5733;
+}
+
+i {
+    color: #FF5733;
+}
