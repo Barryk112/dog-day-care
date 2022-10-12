@@ -134,6 +134,17 @@ section > div > i {
     font-size: 250%;
 }
 
+#about-us p {
+    font-size: 110%;
+}
+
+hr {
+    border-top: 1px solid #FF5733;
+    width: 80%;
+    margin: 5px 0;
+    margin-inline: auto;
+}
+
 #about-us > div {
     margin-top: 40px;
     margin-bottom: 40px;
@@ -149,4 +160,25 @@ div > h2 {
 
 i {
     color: #FF5733;
+    margin-bottom: 30px;
+}
+
+/* footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
 }
