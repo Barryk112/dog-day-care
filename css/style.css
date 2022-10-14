@@ -214,3 +214,17 @@ footer {
 #map {
     text-align: center;
 }
+
+#form-section {
+    background-color: #FF5733;
+    color: #fafafa;
+    border-radius: 20px;
+
+    clear: both;
+    max-width: 33%;
+    height: 400px;
+    padding: 20px;
+    margin: auto;
+
+    font-size: 130%;
+}
