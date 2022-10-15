@@ -215,16 +215,49 @@ footer {
     text-align: center;
 }
 
+/* Bookings form */
+
 #form-section {
-    background-color: #FF5733;
-    color: #fafafa;
-    border-radius: 20px;
+    
 
     clear: both;
     max-width: 33%;
-    height: 400px;
     padding: 20px;
     margin: auto;
-
     font-size: 130%;
+    text-align: center;
 }
+
+#form {
+    background-color: #FF5733;
+    color: #fafafa;
+    padding: 20px;
+    border-radius: 20px;
+    height: 300px;
+    display: block;
+}
+
+.text-input {
+    border-radius: 20px;
+    width: 310px;
+    height: 20px;
+    padding: 3px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 80%;
+}
+
+.submit-button {
+    background-color: #fafafa;
+    color: #3a3a3a;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: 80%;
+}
+
+.submit-button:hover {
+    border: 3px solid #252525;
+}
+
+
+
