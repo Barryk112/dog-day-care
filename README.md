@@ -82,10 +82,7 @@ Google map location can get cut out of the viewport below 770px, the map can sti
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- The site was deployed to GitHub pages. 
 
 The live link can be found here - https://barryk112.github.io/dog-day-care/
 
@@ -95,7 +92,6 @@ The live link can be found here - https://barryk112.github.io/dog-day-care/
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
 - The icons used in the webpage were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
