@@ -115,8 +115,7 @@ a {
 
     padding: 10px 10px 10px 10px;
 
-    background-color: rgba(255, 87, 51, 0.4)
-    ;
+    background-color: rgba(255, 87, 51, 0.4);
 
     position: absolute;
     top: 5%;
@@ -225,6 +224,10 @@ footer {
     margin: auto;
     font-size: 130%;
     text-align: center;
+}
+
+#form-section > p {
+    margin-bottom: 40px;
 }
 
 #form {
