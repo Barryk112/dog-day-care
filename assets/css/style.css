@@ -139,7 +139,6 @@ section > div > i {
 
 hr {
     border-top: 1px solid #FF5733;
-    width: 400px;
     margin: 5px 0;
     margin-inline: auto;
 }
@@ -189,6 +188,7 @@ footer {
     padding-top: 100px;
     margin-bottom: 100px;
     text-align: center;
+    width: 33%;
 }
 
 
@@ -210,24 +210,31 @@ footer {
 }
 
 #map {
+    margin: auto;
     text-align: center;
+    width: 33%;
 }
 
 /* Bookings form */
 
-#form-section {
+#form-about {
     
 
     clear: both;
-    max-width: 33%;
+    width: 33%;
     padding: 20px;
     margin: auto;
     font-size: 130%;
     text-align: center;
 }
 
-#form-section > p {
+#form-about > p {
     margin-bottom: 40px;
+}
+
+#form-section {
+    clear: both;
+    margin: auto;
 }
 
 #form {
@@ -235,8 +242,10 @@ footer {
     color: #fafafa;
     padding: 40px;
     border-radius: 20px;
-    height: 300px;
     display: block;
+    width: 33%;
+    text-align: center;
+    margin: auto;
 }
 
 .text-input {
@@ -261,5 +270,36 @@ footer {
     border: 3px solid #252525;
 }
 
+/* media queries */
 
+/* for screens size max width 1200px */
+@media  screen and (max-width: 1200px) {
+    #form {
+        width: 50%;
+    }
+}
+
+
+/*  for screen sizes max width 950px */
+@media  screen and (max-width: 950px) {
+    #menu {
+        clear: both;
+        float: left;
+        list-style-type: none;
+        margin-right: 60px;
+        margin-left: 30px;
+    }
+
+    #time-table {
+        clear: both;
+    }
+
+    #form-about {
+        width: 60%;
+    }
+
+    #about-us > div {
+        width: 60%;
+    }
+}
 
