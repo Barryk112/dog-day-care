@@ -309,3 +309,13 @@ footer {
     }
 }
 
+@media  screen and (max-width: 650px) {
+    #cover-text {
+        left: 10%;
+    }
+
+    #menu {
+        display: grid;
+    }
+}
+
