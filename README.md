@@ -4,7 +4,7 @@ Doggy Day Care is a website for a a dog care business that provides many dog car
 
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Responsice Mockup](assets/css/images/website-viewport.png)
+![Responsice Mockup](assets/css/images/viewports-image.png)
 
 ## Features 
 
@@ -25,7 +25,7 @@ In this section, you should go over the different parts of your project, and des
   - The landing includes a photograph with text overlay to allow the user to to read the Doggy Day Care logo. 
   - This section introduces the user to Doggy Day Care with an eye catching animation to grab their attention.
 
-![Landing Page](assets/css/images/landing-image.png)
+![Home Page](assets/css/images/homepage-image.png)
 
 - __About Section__
 
