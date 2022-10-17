@@ -81,7 +81,7 @@ a {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url('../images/dog-group.jpg') no-repeat center center;
+    background: url(../css/images/dog-group.jpg) no-repeat center center;
     background-size: cover;
 
     /* Animates zoom effect on loading page */
