@@ -181,6 +181,12 @@ footer {
     padding: 5%;
 }
 
+#contact-info {
+    text-align: center;
+    font-size: 130%;
+    padding-bottom: 20px;
+}
+
 /* time table */
 
 #time-table {
